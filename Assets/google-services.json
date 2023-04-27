@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678262025999",
+    "project_id": "moodmedb-fcd59",
+    "storage_bucket": "moodmedb-fcd59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678262025999:android:242664d9950ed2d48a187a",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ARFaceTracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678262025999-ib7m3ambbe61a5ojt9r0qfbd6alkmoh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcZIu_dig9NYJD3B5vdAtLUS81HmQFZFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678262025999-ib7m3ambbe61a5ojt9r0qfbd6alkmoh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
